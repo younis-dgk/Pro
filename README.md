@@ -65,5 +65,5 @@ b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-YOUNIS.XYZ-dimgr
 
 
 
- ___This Tools is Free___</br>
+ ___This Tools is Paid___</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.YOUNIS-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
